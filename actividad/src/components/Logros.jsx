@@ -6,7 +6,7 @@ const logros = [
     detalle: 'Máximo goleador histórico de la competición'
   },
   {
-    imagen: 'https://www.elgrafico.com.ar/media/cache/pub_news_details_large/media/i/58/70/5870eeb4bb664.jpg',
+    imagen: 'https://img.asmedia.epimg.net/resizer/v2/IFMXQ5FSEBGBZIHBOVWQQNZRJM.jpg?auth=94d1d27e5da6605821276c651bc4f5c5a37e3c07d7a239caae91441c4bf737dc&width=1200&height=1200&focal=1500%2C550',
     titulo: 'Balones de Oro',
     descripcion: 'Conquistó el premio al mejor jugador del mundo en 2008, 2013, 2014, 2016 y 2017.',
     detalle: 'Rivalidad histórica con Messi'
